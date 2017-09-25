@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\github\\netplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\github\\netplayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\github\\netplayer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\github\\netplayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

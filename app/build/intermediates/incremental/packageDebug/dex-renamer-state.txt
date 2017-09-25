@@ -1,0 +1,7 @@
+#Mon Sep 25 22:33:51 CST 2017
+base.0=E\:\\github\\netplayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8251a92c922f7f65515780cfe76d8bcdb3ef3f24
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\github\\netplayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_544f23aa71856d5cdffffc89fee5f9be9c75888d\\classes.dex
+base.1=E\:\\github\\netplayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_544f23aa71856d5cdffffc89fee5f9be9c75888d
+file.0=E\:\\github\\netplayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8251a92c922f7f65515780cfe76d8bcdb3ef3f24\\classes.dex
